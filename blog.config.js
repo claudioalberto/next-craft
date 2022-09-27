@@ -1,13 +1,13 @@
 const BLOG = {
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
+  lang: 'pt-BR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#222222', // use hex value, don't forget '#'
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  craftConfigShareUrl: 'https://www.craft.do/s/kQtcWqkv98cHhB', // The link to share your craft config
+  craftConfigShareUrl: 'https://www.craft.do/s/a2lEbdDpRLlYbp', // The link to share your craft config
   seo: {
-    keywords: ['Blog', 'Craft.do', 'Craft Docs', 'Next.js', 'TailwindCSS']
+    keywords: ['Blog', 'Craft.do', 'Craft Docs', 'Next.js', 'TailwindCSS', 'Claudio Alberto']
   },
   analytics: {
     provider: '', // Currently support Umami, fill with 'umami' to enable or leave it empty to disable it.
